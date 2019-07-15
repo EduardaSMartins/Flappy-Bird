@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1556764108 source:/media/marcos/Dados/Projects/raylib/projects/CodeBlocks/basic_game.c
+	"raylib.h"
+	<math.h>
+	<stdio.h>
+
+1556742936 source:/media/marcos/Dados1/Projects/raylib/projects/CodeBlocks/basic_game.c
+	"raylib.h"
+	<stdio.h>
+
+1556764108 source:/media/marcos/Dados/Projects/codeblocks/2019-01/game-01/basic_game.c
+	"raylib.h"
+	<math.h>
+	<stdio.h>
+
+1556824447 source:/media/marcos/Dados/Projects/codeblocks/2019-01/game-02-no-scale/basic_game.c
+	"raylib.h"
+	<math.h>
+	<stdio.h>
+
+1557262990 source:/media/marcos/Dados/Projects/codeblocks/2019-01/game-03/basic_game.c
+	"raylib.h"
+	<math.h>
+	<stdio.h>
+	"gameutils.h"
+
+1557240351 /media/marcos/Dados/Projects/codeblocks/2019-01/game-03/gameutils.h
+	<string.h>
+
+1559697722 source:/home/usuarios/pessoas/marcossilvano/Downloads/game-03-template/basic_game.c
+	"raylib.h"
+	<math.h>
+	<stdio.h>
+	"gameutils.h"
+
+1559674648 /home/usuarios/pessoas/marcossilvano/Downloads/game-03-template/gameutils.h
+	<string.h>
+
+1560304685 source:/home/usuarios/pessoas/marcossilvano/Downloads/game-03-gameutils/basic_game.c
+	"raylib.h"
+	<math.h>
+	<stdio.h>
+	"gameutils.h"
+
+1560300174 /home/usuarios/pessoas/marcossilvano/Downloads/game-03-gameutils/gameutils.h
+	<string.h>
+
+1560342607 source:/media/marcos/Dados/Projects/codeblocks/2019-01/codigos das aulas/game-04-balls/basic_game.c
+	"raylib.h"
+	<math.h>
+	<stdio.h>
+	"gameutils.h"
+
+1560342639 /media/marcos/Dados/Projects/codeblocks/2019-01/codigos das aulas/game-04-balls/gameutils.h
+	<string.h>
+	<math.h>
+
+1560987830 source:/media/marcos/Dados/Projects/codeblocks/2019-01/codigos das aulas/game-06-gameover/basic_game.c
+	"raylib.h"
+	<math.h>
+	<stdio.h>
+	"gameutils.h"
+
+1561047147 /media/marcos/Dados/Projects/codeblocks/2019-01/codigos das aulas/game-06-gameover/gameutils.h
+	<string.h>
+	<math.h>
+
+1562278083 source:/home/usuarios/pessoas/marcossilvano/Downloads/game-08-gameutils-launch-balls/basic_game.c
+	"raylib.h"
+	<math.h>
+	<stdio.h>
+	"gameutils.h"
+
+1561048008 /home/usuarios/pessoas/marcossilvano/Downloads/game-08-gameutils-launch-balls/gameutils.h
+	<string.h>
+	<math.h>
+
+1562284471 source:/home/todos/alunos/cm/a2105780/Downloads/game-09-gravity/basic_game.c
+	"raylib.h"
+	<math.h>
+	<stdio.h>
+	"gameutils.h"
+
+1561048008 /home/todos/alunos/cm/a2105780/Downloads/game-09-gravity/gameutils.h
+	<string.h>
+	<math.h>
+
